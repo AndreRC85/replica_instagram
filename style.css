@@ -32,8 +32,11 @@ body{
 }
 
 .instagram-phone img {
-    height: 50rem;
-}
+    /*height: 50rem;*/
+    width: 300px;
+    height: 500px;
+  
+} 
 
 .instagram-continue {
     display: flex;
